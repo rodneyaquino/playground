@@ -13,7 +13,7 @@
 ### Task 1 | Bug Report
 > The Bug Report was built using [Google Sites](https://workspace.google.com/products/sites/)
 >
-> <a href="https://sites.google.com/view/raquino-qae-calendly/home" target="_blank">RODNEY AQUINO QAE III  -  BUG REPORT  -  TAKE HOME TEST</a>
+> <a href="https://sites.google.com/view/raquino-qae-calendly/home" target="_blank" rel="noopener noreferrer">RODNEY AQUINO QAE III - BUG REPORT - TAKE HOME TEST</a>
 ---
 ### Task 2 | Automation Scripts
 > This repo is based off an Automation Boiler Plate | [AUTOMATION-BOILER PLATE - Adrian Distoica](https://github.com/adistoica/automation-boilerplate)
