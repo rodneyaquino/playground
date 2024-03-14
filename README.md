@@ -22,3 +22,6 @@
 > - [HomePage](src/main/java/pages/HomePage.java) | locators, page actions, boolean checks for element visibility and additional helpers live here
 > - [TicTacToe](src/test/java/automation/smoke/TicTacToe.java) | This is where our tests hangout
 > - [BasePage](src/main/java/pages/BasePage.java) | Added a helper `isElementPresent` that is used frequently in [HomePage](src/main/java/pages/HomePage.java)
+---
+### Task 3 | ScreenCast Automation Walkthrough
+[<img src="https://i.ytimg.com/vi/0JmkKVdG7NM/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=0JmkKVdG7NM "Automation Walkthrough | Rodney Aquino")
