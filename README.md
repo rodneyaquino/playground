@@ -12,3 +12,11 @@
 > The Bug Report was built using [Google Sites](https://workspace.google.com/products/sites/)
 > 
 > [RODNEY AQUINO QAE III  -  BUG REPORT  -  TAKE HOME TEST](https://sites.google.com/view/raquino-qae-calendly/home)
+---
+### Task 2 | Automation Scripts
+> This repo is based off an Automation Boiler Plate | [AUTOMATION-BOILER PLATE - Adrian Distoica](https://github.com/adistoica/automation-boilerplate)
+>
+> The relevant code lives in 3 places
+> - [HomePage](src/main/java/pages/HomePage.java) | locators, page actions, boolean checks for element visibility and additional helpers live here
+> - [TicTacToe](src/test/java/automation/smoke/TicTacToe.java) | This is where our tests hangout
+> - [BasePage](src/main/java/pages/BasePage.java) | Added a helper `isElementPresent` that is used frequently in [HomePage](src/main/java/pages/HomePage.java)
