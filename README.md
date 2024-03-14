@@ -1,7 +1,9 @@
 # CALENDLY TAKE HOME TEST
 ---
 ### The Scenario
-> Our developer was not exactly focused on quality when he built this simple Tic Tac Toe game: https://roomy-fire-houseboat.glitch.me/
+> Our developer was not exactly focused on quality when he built this simple Tic Tac Toe game:
+>
+> https://roomy-fire-houseboat.glitch.me/
 ---
 ### The Task
 > - Write up the bugs and issues that you find with it and publish your results in a GSuite product of your choice
